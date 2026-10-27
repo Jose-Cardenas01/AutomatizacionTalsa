@@ -1,0 +1,17 @@
+AUTOMATIZACION DE VENTAS TALSA
+Este proyecto tiene como objetivo darle orden a la operacion actual de ventas, automatizar parte del proyecto y estructurar la informacion dispersa de los clientes, las ventas y las fichas tecnicas
+
+REQUISITOS PREVIOS
+El proyecto no sera desplegado por lo que se requieren ciertos requisitos para poder trabajar localmente con el proyecto.
+
+1. Python VERSION 3.13.15 (recomendada) todos los script ejecutables estan hechos en python en la version mencionada por lo que se recomienda usar la misma version
+
+COMO DESCARGAR EN WINDOWS:
+- Abrimos una ventana de PowerShell
+- ejecutamos el comando: winget install --id Python.Python.3.13
+- abrimos una nueva ventana de PowerShell
+- verificamos que si se haya instalado con el comando: python --version
+
+2. Biblioteca Pandas
+
+3. Archivos con los que el programa trabaja: catalogo_equipos_raw.txt, clientes_ventas.json, perfil_cliente_contexto.txt
