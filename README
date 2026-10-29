@@ -12,6 +12,23 @@ COMO DESCARGAR EN WINDOWS:
 - abrimos una nueva ventana de PowerShell
 - verificamos que si se haya instalado con el comando: python --version
 
+COMO DESGARCAR POR INTERNET
+
+Para otros sistemas operativos o por preferencias puedes descargar python desde la pagina oficial de python entrando a la URL https://www.python.org/
+luego dirijirse a la pestaña de descargar y elegir la version 3.13
+
 2. Biblioteca Pandas
 
+El script main usa la biblioteca pandas la cual debe ser instalada.
+
+COMO DESCARGAR PANDAS
+
+-abre una terminal donde se encuentra el archivo main o navega por la terminal hasta alla
+-ejecuta el comando 'pip install pandas'
+-verifica que si se alla descargado con el comando 'pip show pandas
+
 3. Archivos con los que el programa trabaja: catalogo_equipos_raw.txt, clientes_ventas.json, perfil_cliente_contexto.txt
+estos archivos estaran disponibles en el Githud, acontinuacion dejo los enlaces para su descarga
+Catalogo: [Descargar mi archivo](catalogo)
+Clientes_ventas: [Descargar mi archivo](clientes_ventas)
+Perfil_Clientes: [Descargar mi archivo](perfil_clientes)
