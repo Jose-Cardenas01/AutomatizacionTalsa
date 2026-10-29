@@ -29,9 +29,9 @@ COMO DESCARGAR PANDAS
 
 3. Archivos con los que el programa trabaja: catalogo_equipos_raw.txt, clientes_ventas.json, perfil_cliente_contexto.txt
 estos archivos estaran disponibles en el Githud, acontinuacion dejo los enlaces para su descarga
-Catalogo: [Descargar mi archivo](https://github.com/Jose-Cardenas01/AutomatizacionTalsa/blob/dev/catalogo_equipos_raw.txt)
-Clientes_ventas: [Descargar mi archivo](https://github.com/Jose-Cardenas01/AutomatizacionTalsa/blob/dev/clientes_ventas.json)
-Perfil_Clientes: [Descargar mi archivo](https://github.com/Jose-Cardenas01/AutomatizacionTalsa/blob/dev/perfil_cliente_contexto.txt)
+Catalogo: [Descargar mi archivo](https://raw.githubusercontent.com/Jose-Cardenas01/AutomatizacionTalsa/refs/heads/dev/catalogo_equipos_raw.txt)
+Clientes_ventas: [Descargar mi archivo](https://raw.githubusercontent.com/Jose-Cardenas01/AutomatizacionTalsa/refs/heads/dev/clientes_ventas.json)
+Perfil_Clientes: [Descargar mi archivo](https://raw.githubusercontent.com/Jose-Cardenas01/AutomatizacionTalsa/refs/heads/dev/perfil_cliente_contexto.txt)
 
 LIMPIEZA Y NORMALIZACION DE LOS DOCUMENTOS RECIBIDOS
 
@@ -40,4 +40,5 @@ archivo 'Normalizacion' y lo dividimos en 3 partes la A, B Y C.
 Parte A: organizamos con formato SQL 3 tablas una por archivo.
 Parte B: Normalizamos las tablas y obtuvimos un total de 5 tablas
 Parte C: relacionamos las tablas
-NOTA: El archivo se encuentra subido en el repository Githud y se puede descargar aqui: [Descargar mi archivo]() 
+NOTA: El archivo se encuentra subido en el repository Githud y se puede descargar aqui:[Descargar mi archivo](https://raw.githubusercontent.com/Jose-Cardenas01/AutomatizacionTalsa/refs/heads/dev/Normalizacion.md)
+
